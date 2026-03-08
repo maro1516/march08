@@ -1,0 +1,7 @@
+{
+  "name": "MoroccoSoJourn",
+  "description": "An immersive Morocco tourism platform powered by Gemini AI, featuring smart itinerary planning, city guides, and real-time travel assistance with user accounts.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
